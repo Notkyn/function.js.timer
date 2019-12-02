@@ -37,9 +37,13 @@ Example page layout:
   <span class="seconds">00</span>
   </div>
 ```
-- **use:**
+- **run:**
 
 To start, you must call the ***`start`*** method:
 ```javascript
 timer.start();
+```
+- **stor:**
+```javascript
+timer.stop();
 ```
