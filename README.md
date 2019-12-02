@@ -1,5 +1,5 @@
 # Countdown Timer
-## Description:
+
 The timer counts down at intervals of 1 second.
 
 Start point: current system time.
