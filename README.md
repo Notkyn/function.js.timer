@@ -43,7 +43,7 @@ To start, you must call the ***`start`*** method:
 ```javascript
 timer.start();
 ```
-- **stor:**
+- **stop:**
 ```javascript
 timer.stop();
 ```
